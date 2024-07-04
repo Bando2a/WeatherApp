@@ -8,10 +8,3 @@ A simple weather application built with React that fetches and displays weather 
 - Displays current temperature, location, humidity, and wind speed
 - Shows appropriate weather icons based on the weather condition
 
-## Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/Bando2a/weather-app.git
-   cd weather-app
