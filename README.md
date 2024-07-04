@@ -13,5 +13,5 @@ A simple weather application built with React that fetches and displays weather 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Bando2a/weather-app.git
    cd weather-app
